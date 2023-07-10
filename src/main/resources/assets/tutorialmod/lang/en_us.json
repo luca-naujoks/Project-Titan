@@ -1,0 +1,46 @@
+{
+  "item.tutorialmod.citrine": "Citrine",
+  "item.tutorialmod.raw_citrine": "Raw Citrine",
+  "item.tutorialmod.tiger_spawn_egg": "Tiger Spawn Egg",
+  "item.tutorialmod.animated_item": "Animated Item",
+  "item.tutorialmod.amethyst_helmet": "Amethyst Helmet",
+  "item.tutorialmod.amethyst_chestplate": "Amethyst Chestplate",
+  "item.tutorialmod.amethyst_leggings": "Amethyst Leggings",
+  "item.tutorialmod.amethyst_boots": "Amethyst Boots",
+  "item.tutorialmod.music_box_music_disc": "Music Box",
+  "item.tutorialmod.music_box_music_disc.desc": "Music Box by DRFX",
+
+  "block.tutorialmod.citrine_block": "Block of Citrine",
+  "block.tutorialmod.citrine_ore": "Citrine Ore",
+  "block.tutorialmod.deepslate_citrine_ore": "Deepslate Citrine Ore",
+  "block.tutorialmod.animated_block": "Animated Block",
+
+  "block.tutorialmod.red_maple_log": "Red Maple Log",
+  "block.tutorialmod.red_maple_wood": "Red Maple Wood",
+  "block.tutorialmod.stripped_red_maple_log": "Stripped Red Maple Log",
+  "block.tutorialmod.stripped_red_maple_wood": "Stripped Red Maple Wood",
+  "block.tutorialmod.red_maple_planks": "Red Maple Planks",
+  "block.tutorialmod.red_maple_leaves": "Red Maple Leaves",
+  "block.tutorialmod.red_maple_sapling": "Red Maple Sapling",
+
+  "item.tutorialmod.gastank": "Gas Tank",
+  "item.tutorialmod.vme_blade": "Vertical maneuvering equipment Blade",
+  "item.tutorialmod.steel_ingot":"Steel",
+  "item.tutorialmod.steel_nugget":"Steel Nugget",
+  "item.tutorialmod.crude_iron":"Crude Iron",
+  "item.tutorialmod.raw_steel":"Raw Steel",
+
+  "block.tutorialmod.endstone_steel_ore": "Endstone Steel Ore",
+  "block.tutorialmod.netherrack_steel_ore": "Netherrack Steel Ore",
+  "block.tutorialmod.deepslate_steel_ore": "Deepslate Steel Ore",
+  "block.tutorialmod.steel_ore": "Steel Ore",
+  "block.tutorialmod.steel_block": "Steel Block",
+
+  "block.tutorialmod.refuel_station": "Refuel Station",
+  "block.tutorialmod.gear_station": "Gear Station",
+
+
+
+  "itemgroup.citrine": "Citrine Item Group",
+  "itemgroup.titan": "Project Titan"
+}

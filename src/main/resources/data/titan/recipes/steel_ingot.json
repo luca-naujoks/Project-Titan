@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "tutorialmod:crude_iron"
+    }
+  ],
+  "result": "tutorialmod:steel_ingot",
+  "experience": 0.7,
+  "cookingtime": 320
+}
